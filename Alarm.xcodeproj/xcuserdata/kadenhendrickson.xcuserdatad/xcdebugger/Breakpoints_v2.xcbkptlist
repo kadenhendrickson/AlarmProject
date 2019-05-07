@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alarm/ViewControllers/AlarmDetailTableViewController.swift"
+            timestampString = "578963052.626145"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "updateViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alarm/ViewControllers/AlarmDetailTableViewController.swift"
+            timestampString = "578963052.626242"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "saveButtonTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alarm/ViewControllers/AlarmDetailTableViewController.swift"
+            timestampString = "578963052.6263191"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "AlarmDetailTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alarm.AlarmDetailTableViewController.datePicker.getter : Swift.Optional&lt;__C.UIDatePicker&gt;"
+                  moduleName = "Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadenhendrickson/Documents/DevMountain/Daily%20Projects/Alarm/Alarm/ViewControllers/AlarmDetailTableViewController.swift"
+                  timestampString = "578962486.1552531"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alarm.AlarmDetailTableViewController.datePicker.setter : Swift.Optional&lt;__C.UIDatePicker&gt;"
+                  moduleName = "Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadenhendrickson/Documents/DevMountain/Daily%20Projects/Alarm/Alarm/ViewControllers/AlarmDetailTableViewController.swift"
+                  timestampString = "578962486.157208"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alarm.AlarmDetailTableViewController.datePicker.modify : Swift.Optional&lt;__C.UIDatePicker&gt;"
+                  moduleName = "Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadenhendrickson/Documents/DevMountain/Daily%20Projects/Alarm/Alarm/ViewControllers/AlarmDetailTableViewController.swift"
+                  timestampString = "578962486.1592799"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alarm.AlarmDetailTableViewController.datePicker.modify : Swift.Optional&lt;__C.UIDatePicker&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadenhendrickson/Documents/DevMountain/Daily%20Projects/Alarm/Alarm/ViewControllers/AlarmDetailTableViewController.swift"
+                  timestampString = "578962486.16141"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alarm.AlarmDetailTableViewController.init(style: __C.UITableViewStyle) -&gt; Alarm.AlarmDetailTableViewController"
+                  moduleName = "Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadenhendrickson/Documents/DevMountain/Daily%20Projects/Alarm/Alarm/ViewControllers/AlarmDetailTableViewController.swift"
+                  timestampString = "578962486.164662"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "161">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alarm.AlarmDetailTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Alarm.AlarmDetailTableViewController"
+                  moduleName = "Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadenhendrickson/Documents/DevMountain/Daily%20Projects/Alarm/Alarm/ViewControllers/AlarmDetailTableViewController.swift"
+                  timestampString = "578962486.166924"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "302">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alarm.AlarmDetailTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Alarm.AlarmDetailTableViewController&gt;"
+                  moduleName = "Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadenhendrickson/Documents/DevMountain/Daily%20Projects/Alarm/Alarm/ViewControllers/AlarmDetailTableViewController.swift"
+                  timestampString = "578962486.1689939"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "222">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alarm/Model Controller/AlarmController.swift"
+            timestampString = "578963052.6263781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "scheduleUserNotifications(alarm:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
